@@ -1,10 +1,20 @@
-# Kaixiang *'K'* Ren 
+<p align='center'>
+    <img width="250px" src='./name.png'>
+</p>
 
 **`Digital Ranger Hammer My Way Through Problem`**
 
 I'm a Full Stack Developer based in Melbourne, with almost 3 years of professional experience contracting. I inherit legacy code and build stuff from scratch, rectify the wrongs and build my own wrongs. 
 
 Coding to me, is merely a tool to address the how after knowing the what and why.
+
+<p align="left">
+    <a href="https://github.com/happyren?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/happyren?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/happyren?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/happyren?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
 
 ---
 ### 🧰 Languages and Tools
@@ -28,4 +38,4 @@ Coding to me, is merely a tool to address the how after knowing the what and why
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyren&show_icons=true&theme=gruvbox)
+![K's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyren&hide=contribs&show_icons=true&count_private=true&theme=solarized-dark)
