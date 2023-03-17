@@ -1,6 +1,9 @@
 <p align='center'>
-    <img width="250px" src='./name.png'>
+    <img width="250px" height="70px" src='./name.svg'>
+    <br />
+    <img src="./subline.svg" alt="Typing SVG" />
 </p>
+
 
 **`Digital Ranger Hammer My Way Through Problem`**
 
