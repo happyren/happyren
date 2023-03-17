@@ -2,7 +2,7 @@
 
 **`Digital Ranger Hammer My Way Through Problem`**
 
-I'm a Full Stack Developer based in Melbourne, with almost 3 years of professional experience contracting with major Australian owned companies. I inherit legacy code and build stuff from ground up. 
+I'm a Full Stack Developer based in Melbourne, with almost 3 years of professional experience contracting. I inherit legacy code and build stuff from scratch, rectify the wrongs and build my own wrongs. 
 
 Coding to me, is merely a tool to address the how after knowing the what and why.
 
