@@ -42,9 +42,3 @@ Coding to me, is merely a tool to address the how after knowing the what and why
 
 <img align="left" alt="rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <br />
-
-#
-
-### 📊 Stats
-
-![K's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyren&hide=contribs&show_icons=true&count_private=true&theme=solarized-dark)
